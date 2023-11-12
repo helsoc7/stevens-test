@@ -1,16 +1,6 @@
 {
 	"tests": [
 	{
-		"name": "Simple I/O test",
-		"setup": "",
-		"run": "timeout 5 echo \"Hello world\"",
-		"input": "",
-		"output": "Hello",
-		"comparison": "included",
-		"timeout": 1,
-		"points": 10
-	},
-	{
 		"name": "Exact match",
 		"setup": "",
 		"run": "timeout 5 echo \"Hello world\"",
