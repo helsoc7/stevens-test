@@ -8,7 +8,7 @@
 		"output": "Hello",
 		"comparison": "included",
 		"timeout": 1,
-		"points": 11
+		"points": 12
 	},
 	{
 		"name": "Exact match",
